@@ -1,6 +1,8 @@
-## San Dieg, NC
+## San Diego, NC
 
 ### Places to go
+Seaworld
+San Diego Zoo
 
 ### Good places to eat
 
