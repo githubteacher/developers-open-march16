@@ -1,9 +1,9 @@
 ## Portland, OR
 
 ### Top Things to Do
- - go to [OMSI](http://www.omsi.edu/)
- - go to [PAM](http://portlandartmuseum.org/)
- - go to [Powell's](http://www.powells.com/locations/powells-city-of-books)
+ - [OMSI](http://www.omsi.edu/)
+ - [PAM](http://portlandartmuseum.org/)
+ - [Powell's](http://www.powells.com/locations/powells-city-of-books)
 
 ### Top Places to Eat
  - [Tasty n Sons](http://www.tastynsons.com/)
