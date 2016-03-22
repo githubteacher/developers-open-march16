@@ -6,3 +6,4 @@
 
 ### Best places to stay
 
+### Best places to hang out
