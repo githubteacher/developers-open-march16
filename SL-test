@@ -1,6 +1,11 @@
+Modifications from workplace
 modificationsSL test file
 Awesome from command line
 
 1. Install atom and apm shell commands through atom --> Install shell commands
 Then on the git command prompt set atom as the default editor
 git config --global core.editor "atom --wait"
+
+Commits from second branchs
+
+One more change to use amend option
