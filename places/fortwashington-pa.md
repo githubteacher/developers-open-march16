@@ -4,3 +4,5 @@
 ### Fogo De Chao
 
 - run up the rocky steps
+
+The art museum and Eastern State are fun.
