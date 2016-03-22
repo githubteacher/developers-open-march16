@@ -2,6 +2,20 @@
 ## San Diego, CA
 
 ### Places to go
+- Balboa park
+- La Jolla Beaches
+- I don't care
+
+### Good places to eat
+- Any restaurant in La Jolla
+
+### Best places to stay
+- Of course hotel
+=======
+<<<<<<< HEAD
+## San Diego, CA
+
+### Places to go
 Safari Park
 Petco Park
 
@@ -21,3 +35,4 @@ Downtown
 
 ### Best places to stay
 Downtown
+>>>>>>> d2c872454c513fecebb07d8b4f67d5e851cd63ee

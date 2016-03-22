@@ -8,5 +8,7 @@ Plymouth Rock
 
 ## Good eats
 
+I like Wood's on the waterfront.
+
 ## Where to stay
 
