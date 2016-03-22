@@ -7,6 +7,8 @@
 ### Drink
 
 - Three Monkeys
+- Chrime and Punishment Brewery
+- XFinity Live
 
 ### Eat More
 
