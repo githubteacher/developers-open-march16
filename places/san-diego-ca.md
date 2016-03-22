@@ -6,3 +6,4 @@
  - lot of seafood
 ### Best places to stay
  - anyway near shore
+ new changes
