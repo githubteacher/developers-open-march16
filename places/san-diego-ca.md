@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## San Diego, CA
 
 ### Places to go
