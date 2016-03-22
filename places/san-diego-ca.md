@@ -7,3 +7,7 @@
 ### Best places to stay
  - anyway near shore
  new changes
+
+ changes 2
+
+ Changes 3
