@@ -5,6 +5,7 @@ Seaworld
 San Diego Zoo
 
 ### Good places to eat
+Phil's BBQ is my favoriate
 
 ### Best places to stay
 
