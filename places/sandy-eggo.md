@@ -2,6 +2,13 @@
 
 #### Places to go
 
-### PLaces to eat
+- The Beach
+
+### Places to eat
+
+- Albertos
+- Waffles on the beach
 
 ### Best places to stay
+
+- Hotel Del Coronado
