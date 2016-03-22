@@ -1,10 +1,13 @@
 ## Kyiv, Ukraine
 
 ### Places to Go
-TBD
+- Kyiv-Pechersk Lavra
+- Andriyivski Uzviz
 
 ### Good Places to Eat
-TBD
+- Irish Pub To Dublin
+- Tarantino restraurant
 
 ### Best Places to Stay
-TBD
+- Hilton Kyiv
+- Holiday Inn Kyiv
