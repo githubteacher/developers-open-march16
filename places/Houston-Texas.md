@@ -6,6 +6,7 @@
 - Battleship Texas
 - Surfside
 - Spacecenter Houston
+- EI office
 
 ### Good Places to eat
 - Ranas
