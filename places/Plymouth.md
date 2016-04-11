@@ -14,4 +14,5 @@ Plymouth Rock
 - Al's Pizzeria
 
 ## Where to stay
+- Hotel
 
