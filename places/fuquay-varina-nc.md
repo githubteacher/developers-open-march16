@@ -13,3 +13,4 @@
 ### Best places to stay
 
 - There is a cute BNB south of town
+- Park
